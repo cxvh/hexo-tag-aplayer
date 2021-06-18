@@ -35,7 +35,7 @@ Embed APlayer([https://github.com/DIYgod/APlayer](https://github.com/DIYgod/APla
 
 ## Installation
 
-	npm install --save hexo-tag-aplayer
+	npm install --save hexo-tag-aplayer2
 ## Dependency
 
 + APlayer.js  >= 1.10.0
