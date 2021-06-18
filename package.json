@@ -1,6 +1,6 @@
 {
-  "name": "hexo-tag-aplayer",
-  "version": "3.0.4",
+  "name": "hexo-tag-aplayer2",
+  "version": "0.0.1",
   "description": "Embed aplayer in Hexo posts/pages",
   "main": "index.js",
   "scripts": {
@@ -13,18 +13,18 @@
     "player",
     "aplayer"
   ],
-  "author": "Grzhan",
+  "author": "Baran",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grzhan/hexo-tag-aplayer.git"
+    "url": "git+https://github.com/code-ba/hexo-tag-aplayer.git"
   },
   "bugs": {
-    "url": "https://github.com/grzhan/hexo-tag-aplayer/issues"
+    "url": "https://github.com/code-ba/hexo-tag-aplayer/issues"
   },
-  "homepage": "https://github.com/grzhan/hexo-tag-aplayer#readme",
+  "homepage": "https://github.com/code-ba/hexo-tag-aplayer#readme",
   "dependencies": {
-    "aplayer": "^1.10.0",
+    "aplayer2":"^0.0.2",
     "babel-polyfill": "^6.16.0",
     "hexo-fs": "^0.2.0",
     "hexo-log": "^0.2.0",
