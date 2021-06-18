@@ -1,6 +1,6 @@
 # hexo-tag-aplayer
 
-![npm](https://img.shields.io/npm/v/hexo-tag-aplayer.svg)  ![npm](https://img.shields.io/npm/l/hexo-tag-aplayer.svg)
+![npm](https://img.shields.io/npm/v/hexo-tag-aplayer2.svg)  ![npm](https://img.shields.io/npm/l/hexo-tag-aplayer2.svg)
 
 Embed APlayer([https://github.com/DIYgod/APlayer](https://github.com/DIYgod/APlayer)) in Hexo posts/pages.
 
@@ -10,19 +10,20 @@ Embed APlayer([https://github.com/DIYgod/APlayer](https://github.com/DIYgod/APla
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Installation](#installation)
-- [Dependency](#dependency)
-- [Usage](#usage)
-  - [Option](#option)
-  - [With lyrics](#with-lyrics)
-  - [With playlist](#with-playlist)
-  - [MeingJS support (new in 3.0)](#meingjs-support-new-in-30)
-  - [PJAX compatible](#pjax-compatible)
-- [Customization (new in 3.0)](#customization-new-in-30)
-- [Troubleshoot](#troubleshoot)
-  - [Space within arguments](#space-within-arguments)
-  - [Duplicate APlayer.JS loading](#duplicate-aplayerjs-loading)
-- [LICENSE](#license)
+- [hexo-tag-aplayer](#hexo-tag-aplayer)
+	- [Installation](#installation)
+	- [Dependency](#dependency)
+	- [Usage](#usage)
+		- [Option](#option)
+		- [With lyrics](#with-lyrics)
+		- [With playlist](#with-playlist)
+		- [MeingJS support (new in 3.0)](#meingjs-support-new-in-30)
+		- [PJAX compatible](#pjax-compatible)
+	- [Customization (new in 3.0)](#customization-new-in-30)
+	- [Troubleshoot](#troubleshoot)
+		- [Space within arguments](#space-within-arguments)
+		- [Duplicate APlayer.JS loading](#duplicate-aplayerjs-loading)
+	- [LICENSE](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
