@@ -91,7 +91,7 @@ hexo.extend.filter.register('after_render:html', function (raw, info) {
     // Inject APlayer script
     if (view.hasTagMarker(_constant.APLAYER_TAG_MARKER) && !view.assetAlreadyInjected(_constant.APLAYER_SCRIPT_MARKER)) {
       view.injectAsset('<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/aplayer2/dist/APlayer.min.css" class="' + _constant.APLAYER_STYLE_MARKER + '">');
-      view.injectAsset(_hexoUtil2.default.htmlTag('script', { src: "//cdn.jsdelivr.net/npm/aplayer2", class: _constant.APLAYER_SCRIPT_MARKER }, ''));
+      view.injectAsset(_hexoUtil2.default.htmlTag('script', { src: "//cdn.jsdelivr.net/npm/aplayer2/dist/APlayer.min.js", class: _constant.APLAYER_SCRIPT_MARKER }, ''));
     }
     // Inject Meting script
     if (config.get('meting') && view.hasTagMarker(_constant.METING_TAG_MARKER) && !view.assetAlreadyInjected(_constant.METING_SCRIPT_MARKER)) {
